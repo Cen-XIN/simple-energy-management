@@ -17,6 +17,6 @@ message SimpleMsg
 {
     int source;
     int destination;
-    int hopCount = 0;
+    int hopCount = 0;	// TSK-MSG ONLY! [NOT USED NOW]
     int type;
 }

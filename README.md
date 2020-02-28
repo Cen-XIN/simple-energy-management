@@ -19,3 +19,9 @@ Yet to find bugs :-(
 ### Feb. 4th 2020
 Merged some functions. It's time to do some practical things (hopefully)
 
+### Feb. 28th 2020
+* How to switch mode
+  * Switch mode by frequency (idle period)
+  * Switch mode by probability (flip coin)
+* 3 task messages forwarding randomly
+
